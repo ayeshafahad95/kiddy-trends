@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+     "src": "package.json",
+    "use": "@vercel/next",
     "start": "next start",
     "lint": "next lint"
   },
