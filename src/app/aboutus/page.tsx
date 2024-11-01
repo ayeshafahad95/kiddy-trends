@@ -18,7 +18,7 @@ export default function About() {
                 <br />
                 <strong>Our Promise</strong>
                 <br />
-                At Kiddy Trends, were more than a clothing brand—were a partner in your parenting journey. Every piece is created with your child is comfort and happiness in mind, and we strive to make your shopping experience seamless, convenient, and filled with options you will love. Were here to bring a touch of love to your child's wardrobe and peace of mind to you, knowing youve chosen the best.
+                At Kiddy Trends, were more than a clothing brand—were a partner in your parenting journey. Every piece is created with your child is comfort and happiness in mind, and we strive to make your shopping experience seamless, convenient, and filled with options you will love. Were here to bring a touch of love to your childs wardrobe and peace of mind to you, knowing youve chosen the best.
                 <br />
                 <br />
                 Explore Kiddy Trends, where quality, affordability, and love meet in every stitch. From festive wear to cozy everyday outfits, let us be part of the moments that make childhood so special.
